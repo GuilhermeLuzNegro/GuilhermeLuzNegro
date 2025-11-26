@@ -2,11 +2,16 @@
 
 ###
 
-<p align="left">🧠 Suporte Técnico | Desenvolvedor de Sistemas | Redes</p>
+<p align="left">🧠 Desenvolvedor Java em Formação | Front-end & Back-end | HTML, CSS, JavaScript, PHP, MySQL</p>
 
 ###
 
-<p align="left">Olá! Meu nome é Guilherme, estou cursando o Ensino Médio integrado ao Técnico em Informática e busco constantemente me desenvolver na área de Tecnologia da Informação.<br>Tenho conhecimentos em informática, programação e ferramentas tecnológicas, além de grande interesse em aprender novas linguagens e me aprofundar no universo da tecnologia.<br><br>Sou uma pessoa dedicada, curiosa e proativa, que gosta de resolver problemas e trabalhar com inovação. Estou em busca de oportunidades para colocar em prática o que aprendo, adquirir experiência profissional e continuar evoluindo tanto pessoal quanto tecnicamente.</p>
+<p align="left">
+Olá! Meu nome é Guilherme, estou cursando o Ensino Médio integrado ao Técnico em Informática e atualmente sou Desenvolvedor Java em formação, buscando evoluir cada vez mais na área de Tecnologia da Informação.
+
+Tenho conhecimentos em informática, programação e ferramentas tecnológicas, além de grande interesse em aprender novas linguagens e me aprofundar no universo da tecnologia. Sou dedicado, curioso e proativo, sempre procurando resolver problemas, criar soluções e trabalhar com inovação.
+
+Estou em busca de oportunidades para colocar em prática o que estou aprendendo, adquirir experiência profissional e continuar evoluindo tanto pessoal quanto tecnicamente.</p>
 
 ###
 
