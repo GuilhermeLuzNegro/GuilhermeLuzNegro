@@ -7,11 +7,11 @@
 ###
 
 <p align="left">
-Olá! Meu nome é Guilherme, estou cursando o Ensino Médio integrado ao Técnico em Informática e atualmente sou Desenvolvedor Java em formação, buscando evoluir cada vez mais na área de Tecnologia da Informação.
+Olá! Meu nome é Guilherme, tenho 17 anos e estou cursando o Ensino Médio integrado ao Técnico em Informática para Internet. Atualmente, sou Desenvolvedor Java em formação, buscando evoluir constantemente na área de Tecnologia da Informação.
 
-Tenho conhecimentos em informática, programação e ferramentas tecnológicas, além de grande interesse em aprender novas linguagens e me aprofundar no universo da tecnologia. Sou dedicado, curioso e proativo, sempre procurando resolver problemas, criar soluções e trabalhar com inovação.
+Possuo conhecimentos em informática, lógica de programação, programação orientada a objetos com Java e noções de desenvolvimento web. Tenho grande interesse em aprender novas linguagens, aprimorar minhas habilidades técnicas e me aprofundar no universo da tecnologia.
 
-Estou em busca de oportunidades para colocar em prática o que estou aprendendo, adquirir experiência profissional e continuar evoluindo tanto pessoal quanto tecnicamente.</p>
+Sou dedicado, curioso e proativo, com facilidade para aprender, resolver problemas e buscar soluções inovadoras. Estou em busca de oportunidades para colocar em prática os conhecimentos adquiridos, obter experiência profissional e continuar evoluindo tanto pessoal quanto tecnicamente.</p>
 
 ###
 
